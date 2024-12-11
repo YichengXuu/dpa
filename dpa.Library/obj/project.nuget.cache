@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "PwSc+OBKoUo=",
+  "success": true,
+  "projectFilePath": "/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa.Library/dpa.Library.csproj",
+  "expectedPackageFiles": [
+    "/Users/yichengxu/.nuget/packages/avaloniainfinitescrolling.collection/1.0.1/avaloniainfinitescrolling.collection.1.0.1.nupkg.sha512",
+    "/Users/yichengxu/.nuget/packages/communitytoolkit.mvvm/8.3.2/communitytoolkit.mvvm.8.3.2.nupkg.sha512",
+    "/Users/yichengxu/.nuget/packages/sqlite-net-pcl/1.9.172/sqlite-net-pcl.1.9.172.nupkg.sha512",
+    "/Users/yichengxu/.nuget/packages/sqlitepclraw.bundle_green/2.1.2/sqlitepclraw.bundle_green.2.1.2.nupkg.sha512",
+    "/Users/yichengxu/.nuget/packages/sqlitepclraw.core/2.1.2/sqlitepclraw.core.2.1.2.nupkg.sha512",
+    "/Users/yichengxu/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.2/sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",
+    "/Users/yichengxu/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.2/sqlitepclraw.provider.e_sqlite3.2.1.2.nupkg.sha512",
+    "/Users/yichengxu/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

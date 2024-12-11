@@ -1,0 +1,570 @@
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/dpa
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/dpa.deps.json
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/dpa.runtimeconfig.json
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/dpa.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/dpa.pdb
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Avalonia.Base.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Avalonia.Controls.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Avalonia.DesignerSupport.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Avalonia.Dialogs.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Avalonia.Markup.Xaml.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Avalonia.Markup.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Avalonia.Metal.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Avalonia.MicroCom.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Avalonia.OpenGL.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Avalonia.Vulkan.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Avalonia.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Avalonia.Controls.ColorPicker.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Avalonia.Controls.DataGrid.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Avalonia.Desktop.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Avalonia.Diagnostics.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Avalonia.Fonts.Inter.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Avalonia.FreeDesktop.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Avalonia.Native.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Avalonia.Remote.Protocol.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Avalonia.Skia.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Avalonia.Themes.Fluent.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Avalonia.Themes.Simple.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Avalonia.Win32.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Avalonia.X11.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactions.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactions.Custom.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactions.DragAndDrop.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactions.Draggable.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactions.Events.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactions.Responsive.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactivity.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/AvaloniaInfiniteScrolling.Collection.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/AvaloniaInfiniteScrolling.Control.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/CommunityToolkit.Mvvm.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/HarfBuzzSharp.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Irihi.Avalonia.Shared.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Ursa.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Ursa.Themes.Semi.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/MicroCom.Runtime.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Semi.Avalonia.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/SkiaSharp.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/SQLite-net.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/System.IO.Pipelines.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/System.Reactive.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Tmds.DBus.Protocol.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/win-arm64/native/av_libglesv2.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/win-x64/native/av_libglesv2.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/win-x86/native/av_libglesv2.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/osx/native/libAvaloniaNative.dylib
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/linux-arm/native/libSkiaSharp.so
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/linux-x64/native/libSkiaSharp.so
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/osx/native/libSkiaSharp.dylib
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/win-x64/native/libSkiaSharp.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/win-x86/native/libSkiaSharp.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/dpa.Library.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/dpa.Library.pdb
+/home/zhangyin/root/tmp/dpa/dpa/obj/Debug/net8.0/dpa.csproj.AssemblyReference.cache
+/home/zhangyin/root/tmp/dpa/dpa/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache
+/home/zhangyin/root/tmp/dpa/dpa/obj/Debug/net8.0/Avalonia/resources
+/home/zhangyin/root/tmp/dpa/dpa/obj/Debug/net8.0/dpa.GeneratedMSBuildEditorConfig.editorconfig
+/home/zhangyin/root/tmp/dpa/dpa/obj/Debug/net8.0/dpa.AssemblyInfoInputs.cache
+/home/zhangyin/root/tmp/dpa/dpa/obj/Debug/net8.0/dpa.AssemblyInfo.cs
+/home/zhangyin/root/tmp/dpa/dpa/obj/Debug/net8.0/dpa.csproj.CoreCompileInputs.cache
+/home/zhangyin/root/tmp/dpa/dpa/obj/Debug/net8.0/Avalonia/dpa.dll
+/home/zhangyin/root/tmp/dpa/dpa/obj/Debug/net8.0/Avalonia/dpa.pdb
+/home/zhangyin/root/tmp/dpa/dpa/obj/Debug/net8.0/refint/Avalonia/dpa.dll
+/home/zhangyin/root/tmp/dpa/dpa/obj/Debug/net8.0/dpa.csproj.Up2Date
+/home/zhangyin/root/tmp/dpa/dpa/obj/Debug/net8.0/dpa.genruntimeconfig.cache
+/home/zhangyin/root/tmp/dpa/dpa/obj/Debug/net8.0/ref/dpa.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Projektanker.Icons.Avalonia.dll
+/home/zhangyin/root/tmp/dpa/dpa/bin/Debug/net8.0/Projektanker.Icons.Avalonia.FontAwesome.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/dpa
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/dpa.deps.json
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/dpa.runtimeconfig.json
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/dpa.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/dpa.pdb
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Base.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Controls.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.DesignerSupport.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Dialogs.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Markup.Xaml.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Markup.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Metal.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.MicroCom.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.OpenGL.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Vulkan.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Controls.ColorPicker.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Controls.DataGrid.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Desktop.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Diagnostics.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Fonts.Inter.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.FreeDesktop.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Native.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Remote.Protocol.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Skia.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Themes.Fluent.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Themes.Simple.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Win32.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.X11.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactions.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactions.Custom.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactions.DragAndDrop.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactions.Draggable.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactions.Events.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactions.Responsive.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactivity.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/AvaloniaInfiniteScrolling.Collection.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/AvaloniaInfiniteScrolling.Control.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/CommunityToolkit.Mvvm.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/HarfBuzzSharp.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Irihi.Avalonia.Shared.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Ursa.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Ursa.Themes.Semi.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/MicroCom.Runtime.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Projektanker.Icons.Avalonia.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Projektanker.Icons.Avalonia.FontAwesome.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Semi.Avalonia.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/SkiaSharp.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/SQLite-net.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/System.Reactive.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/Tmds.DBus.Protocol.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/win-arm64/native/av_libglesv2.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/win-x64/native/av_libglesv2.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/win-x86/native/av_libglesv2.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/osx/native/libAvaloniaNative.dylib
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-arm/native/libSkiaSharp.so
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-x64/native/libSkiaSharp.so
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/osx/native/libSkiaSharp.dylib
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/win-x64/native/libSkiaSharp.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/win-x86/native/libSkiaSharp.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/dpa.Library.dll
+/Users/yichengxu/Downloads/dpa/dpa/bin/Debug/net8.0/dpa.Library.pdb
+/Users/yichengxu/Downloads/dpa/dpa/obj/Debug/net8.0/dpa.csproj.AssemblyReference.cache
+/Users/yichengxu/Downloads/dpa/dpa/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache
+/Users/yichengxu/Downloads/dpa/dpa/obj/Debug/net8.0/Avalonia/resources
+/Users/yichengxu/Downloads/dpa/dpa/obj/Debug/net8.0/dpa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yichengxu/Downloads/dpa/dpa/obj/Debug/net8.0/dpa.AssemblyInfoInputs.cache
+/Users/yichengxu/Downloads/dpa/dpa/obj/Debug/net8.0/dpa.AssemblyInfo.cs
+/Users/yichengxu/Downloads/dpa/dpa/obj/Debug/net8.0/dpa.csproj.CoreCompileInputs.cache
+/Users/yichengxu/Downloads/dpa/dpa/obj/Debug/net8.0/Avalonia/dpa.dll
+/Users/yichengxu/Downloads/dpa/dpa/obj/Debug/net8.0/Avalonia/dpa.pdb
+/Users/yichengxu/Downloads/dpa/dpa/obj/Debug/net8.0/refint/Avalonia/dpa.dll
+/Users/yichengxu/Downloads/dpa/dpa/obj/Debug/net8.0/dpa.csproj.Up2Date
+/Users/yichengxu/Downloads/dpa/dpa/obj/Debug/net8.0/dpa.genruntimeconfig.cache
+/Users/yichengxu/Downloads/dpa/dpa/obj/Debug/net8.0/ref/dpa.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/dpa.exe
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/dpa.deps.json
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/dpa.runtimeconfig.json
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/dpa.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/dpa.pdb
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Base.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Controls.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.DesignerSupport.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Dialogs.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Markup.Xaml.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Markup.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Metal.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.MicroCom.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.OpenGL.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Vulkan.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Controls.ColorPicker.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Controls.DataGrid.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Desktop.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Diagnostics.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Fonts.Inter.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.FreeDesktop.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Native.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Remote.Protocol.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Skia.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Themes.Fluent.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Themes.Simple.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Win32.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.X11.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactions.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactions.Custom.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactions.DragAndDrop.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactions.Draggable.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactions.Events.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactions.Responsive.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactivity.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/AvaloniaInfiniteScrolling.Collection.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/AvaloniaInfiniteScrolling.Control.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/CommunityToolkit.Mvvm.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/HarfBuzzSharp.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Irihi.Avalonia.Shared.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Ursa.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Ursa.Themes.Semi.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/MicroCom.Runtime.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Projektanker.Icons.Avalonia.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Projektanker.Icons.Avalonia.FontAwesome.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Semi.Avalonia.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/SkiaSharp.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/SQLite-net.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/System.IO.Pipelines.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/System.Reactive.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/Tmds.DBus.Protocol.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/win-arm64/native/av_libglesv2.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/win-x64/native/av_libglesv2.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/win-x86/native/av_libglesv2.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/osx/native/libAvaloniaNative.dylib
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-arm/native/libSkiaSharp.so
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-arm64/native/libSkiaSharp.so
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-x64/native/libSkiaSharp.so
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/osx/native/libSkiaSharp.dylib
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/win-arm64/native/libSkiaSharp.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/win-x64/native/libSkiaSharp.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/win-x86/native/libSkiaSharp.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/alpine-arm/native/libe_sqlite3.so
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/alpine-x64/native/libe_sqlite3.so
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/dpa.Library.dll
+//Mac/Home/Downloads/dpa/dpa/bin/Debug/net8.0/dpa.Library.pdb
+//Mac/Home/Downloads/dpa/dpa/obj/Debug/net8.0/dpa.csproj.AssemblyReference.cache
+//Mac/Home/Downloads/dpa/dpa/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache
+//Mac/Home/Downloads/dpa/dpa/obj/Debug/net8.0/Avalonia/resources
+//Mac/Home/Downloads/dpa/dpa/obj/Debug/net8.0/dpa.GeneratedMSBuildEditorConfig.editorconfig
+//Mac/Home/Downloads/dpa/dpa/obj/Debug/net8.0/dpa.AssemblyInfoInputs.cache
+//Mac/Home/Downloads/dpa/dpa/obj/Debug/net8.0/dpa.AssemblyInfo.cs
+//Mac/Home/Downloads/dpa/dpa/obj/Debug/net8.0/dpa.csproj.CoreCompileInputs.cache
+//Mac/Home/Downloads/dpa/dpa/obj/Debug/net8.0/Avalonia/dpa.dll
+//Mac/Home/Downloads/dpa/dpa/obj/Debug/net8.0/Avalonia/dpa.pdb
+//Mac/Home/Downloads/dpa/dpa/obj/Debug/net8.0/refint/Avalonia/dpa.dll
+//Mac/Home/Downloads/dpa/dpa/obj/Debug/net8.0/dpa.csproj.Up2Date
+//Mac/Home/Downloads/dpa/dpa/obj/Debug/net8.0/dpa.genruntimeconfig.cache
+//Mac/Home/Downloads/dpa/dpa/obj/Debug/net8.0/ref/dpa.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/dpa
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/dpa.deps.json
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/dpa.runtimeconfig.json
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/dpa.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/dpa.pdb
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Avalonia.Base.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Avalonia.Controls.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Avalonia.DesignerSupport.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Avalonia.Dialogs.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Avalonia.Markup.Xaml.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Avalonia.Markup.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Avalonia.Metal.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Avalonia.MicroCom.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Avalonia.OpenGL.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Avalonia.Vulkan.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Avalonia.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Avalonia.Controls.ColorPicker.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Avalonia.Controls.DataGrid.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Avalonia.Desktop.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Avalonia.Diagnostics.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Avalonia.Fonts.Inter.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Avalonia.FreeDesktop.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Avalonia.Native.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Avalonia.Remote.Protocol.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Avalonia.Skia.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Avalonia.Themes.Fluent.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Avalonia.Themes.Simple.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Avalonia.Win32.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Avalonia.X11.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactions.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactions.Custom.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactions.DragAndDrop.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactions.Draggable.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactions.Events.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactions.Responsive.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactivity.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/AvaloniaInfiniteScrolling.Collection.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/AvaloniaInfiniteScrolling.Control.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/CommunityToolkit.Mvvm.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/HarfBuzzSharp.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Irihi.Avalonia.Shared.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Ursa.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Ursa.Themes.Semi.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/MicroCom.Runtime.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Projektanker.Icons.Avalonia.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Projektanker.Icons.Avalonia.FontAwesome.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Semi.Avalonia.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/SkiaSharp.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/SQLite-net.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/System.Reactive.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/Tmds.DBus.Protocol.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/win-arm64/native/av_libglesv2.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/win-x64/native/av_libglesv2.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/win-x86/native/av_libglesv2.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/osx/native/libAvaloniaNative.dylib
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/linux-arm/native/libSkiaSharp.so
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/linux-x64/native/libSkiaSharp.so
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/osx/native/libSkiaSharp.dylib
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/win-x64/native/libSkiaSharp.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/win-x86/native/libSkiaSharp.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/dpa.Library.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/bin/Debug/net8.0/dpa.Library.pdb
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/obj/Debug/net8.0/dpa.csproj.AssemblyReference.cache
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/obj/Debug/net8.0/Avalonia/resources
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/obj/Debug/net8.0/dpa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/obj/Debug/net8.0/dpa.AssemblyInfoInputs.cache
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/obj/Debug/net8.0/dpa.AssemblyInfo.cs
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/obj/Debug/net8.0/dpa.csproj.CoreCompileInputs.cache
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/obj/Debug/net8.0/Avalonia/dpa.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/obj/Debug/net8.0/Avalonia/dpa.pdb
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/obj/Debug/net8.0/refint/Avalonia/dpa.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/obj/Debug/net8.0/dpa.csproj.Up2Date
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/obj/Debug/net8.0/dpa.genruntimeconfig.cache
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa/obj/Debug/net8.0/ref/dpa.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/dpa
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/dpa.deps.json
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/dpa.runtimeconfig.json
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/dpa.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/dpa.pdb
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Avalonia.Base.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Avalonia.Controls.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Avalonia.DesignerSupport.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Avalonia.Dialogs.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Avalonia.Markup.Xaml.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Avalonia.Markup.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Avalonia.Metal.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Avalonia.MicroCom.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Avalonia.OpenGL.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Avalonia.Vulkan.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Avalonia.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Avalonia.Controls.ColorPicker.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Avalonia.Controls.DataGrid.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Avalonia.Desktop.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Avalonia.Diagnostics.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Avalonia.Fonts.Inter.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Avalonia.FreeDesktop.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Avalonia.Native.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Avalonia.Remote.Protocol.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Avalonia.Skia.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Avalonia.Themes.Fluent.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Avalonia.Themes.Simple.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Avalonia.Win32.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Avalonia.X11.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactions.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactions.Custom.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactions.DragAndDrop.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactions.Draggable.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactions.Events.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactions.Responsive.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Avalonia.Xaml.Interactivity.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/AvaloniaInfiniteScrolling.Collection.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/AvaloniaInfiniteScrolling.Control.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/CommunityToolkit.Mvvm.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/HarfBuzzSharp.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Irihi.Avalonia.Shared.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Ursa.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Ursa.Themes.Semi.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/MicroCom.Runtime.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Projektanker.Icons.Avalonia.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Projektanker.Icons.Avalonia.FontAwesome.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Semi.Avalonia.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/SkiaSharp.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/SQLite-net.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/System.Reactive.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/Tmds.DBus.Protocol.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/win-arm64/native/av_libglesv2.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/win-x64/native/av_libglesv2.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/win-x86/native/av_libglesv2.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/osx/native/libAvaloniaNative.dylib
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/linux-arm/native/libSkiaSharp.so
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/linux-x64/native/libSkiaSharp.so
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/osx/native/libSkiaSharp.dylib
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/win-x64/native/libSkiaSharp.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/win-x86/native/libSkiaSharp.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/dpa.Library.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/bin/Debug/net8.0/dpa.Library.pdb
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/obj/Debug/net8.0/dpa.csproj.AssemblyReference.cache
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/obj/Debug/net8.0/Avalonia/resources
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/obj/Debug/net8.0/dpa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/obj/Debug/net8.0/dpa.AssemblyInfoInputs.cache
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/obj/Debug/net8.0/dpa.AssemblyInfo.cs
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/obj/Debug/net8.0/dpa.csproj.CoreCompileInputs.cache
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/obj/Debug/net8.0/Avalonia/dpa.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/obj/Debug/net8.0/Avalonia/dpa.pdb
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/obj/Debug/net8.0/refint/Avalonia/dpa.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/obj/Debug/net8.0/dpa.csproj.Up2Date
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/obj/Debug/net8.0/dpa.genruntimeconfig.cache
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa/obj/Debug/net8.0/ref/dpa.dll

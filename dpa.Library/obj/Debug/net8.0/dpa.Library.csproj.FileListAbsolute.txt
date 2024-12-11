@@ -1,0 +1,60 @@
+/home/zhangyin/root/tmp/dpa/dpa.Library/bin/Debug/net8.0/dpa.Library.deps.json
+/home/zhangyin/root/tmp/dpa/dpa.Library/bin/Debug/net8.0/dpa.Library.dll
+/home/zhangyin/root/tmp/dpa/dpa.Library/bin/Debug/net8.0/dpa.Library.pdb
+/home/zhangyin/root/tmp/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.csproj.AssemblyReference.cache
+/home/zhangyin/root/tmp/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.GeneratedMSBuildEditorConfig.editorconfig
+/home/zhangyin/root/tmp/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.AssemblyInfoInputs.cache
+/home/zhangyin/root/tmp/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.AssemblyInfo.cs
+/home/zhangyin/root/tmp/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.csproj.CoreCompileInputs.cache
+/home/zhangyin/root/tmp/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.dll
+/home/zhangyin/root/tmp/dpa/dpa.Library/obj/Debug/net8.0/refint/dpa.Library.dll
+/home/zhangyin/root/tmp/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.pdb
+/home/zhangyin/root/tmp/dpa/dpa.Library/obj/Debug/net8.0/ref/dpa.Library.dll
+/Users/yichengxu/Downloads/dpa/dpa.Library/bin/Debug/net8.0/dpa.Library.deps.json
+/Users/yichengxu/Downloads/dpa/dpa.Library/bin/Debug/net8.0/dpa.Library.dll
+/Users/yichengxu/Downloads/dpa/dpa.Library/bin/Debug/net8.0/dpa.Library.pdb
+/Users/yichengxu/Downloads/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.csproj.AssemblyReference.cache
+/Users/yichengxu/Downloads/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yichengxu/Downloads/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.AssemblyInfoInputs.cache
+/Users/yichengxu/Downloads/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.AssemblyInfo.cs
+/Users/yichengxu/Downloads/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.csproj.CoreCompileInputs.cache
+/Users/yichengxu/Downloads/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.dll
+/Users/yichengxu/Downloads/dpa/dpa.Library/obj/Debug/net8.0/refint/dpa.Library.dll
+/Users/yichengxu/Downloads/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.pdb
+/Users/yichengxu/Downloads/dpa/dpa.Library/obj/Debug/net8.0/ref/dpa.Library.dll
+//Mac/Home/Downloads/dpa/dpa.Library/bin/Debug/net8.0/dpa.Library.deps.json
+//Mac/Home/Downloads/dpa/dpa.Library/bin/Debug/net8.0/dpa.Library.dll
+//Mac/Home/Downloads/dpa/dpa.Library/bin/Debug/net8.0/dpa.Library.pdb
+//Mac/Home/Downloads/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.csproj.AssemblyReference.cache
+//Mac/Home/Downloads/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.GeneratedMSBuildEditorConfig.editorconfig
+//Mac/Home/Downloads/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.AssemblyInfoInputs.cache
+//Mac/Home/Downloads/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.AssemblyInfo.cs
+//Mac/Home/Downloads/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.csproj.CoreCompileInputs.cache
+//Mac/Home/Downloads/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.dll
+//Mac/Home/Downloads/dpa/dpa.Library/obj/Debug/net8.0/refint/dpa.Library.dll
+//Mac/Home/Downloads/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.pdb
+//Mac/Home/Downloads/dpa/dpa.Library/obj/Debug/net8.0/ref/dpa.Library.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa.Library/bin/Debug/net8.0/dpa.Library.deps.json
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa.Library/bin/Debug/net8.0/dpa.Library.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa.Library/bin/Debug/net8.0/dpa.Library.pdb
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.csproj.AssemblyReference.cache
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.AssemblyInfoInputs.cache
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.AssemblyInfo.cs
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.csproj.CoreCompileInputs.cache
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa.Library/obj/Debug/net8.0/refint/dpa.Library.dll
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.pdb
+/Users/yichengxu/Documents/2024 Total/Full Stack Development/dpa/dpa.Library/obj/Debug/net8.0/ref/dpa.Library.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa.Library/bin/Debug/net8.0/dpa.Library.deps.json
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa.Library/bin/Debug/net8.0/dpa.Library.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa.Library/bin/Debug/net8.0/dpa.Library.pdb
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.csproj.AssemblyReference.cache
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.AssemblyInfoInputs.cache
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.AssemblyInfo.cs
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.csproj.CoreCompileInputs.cache
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa.Library/obj/Debug/net8.0/refint/dpa.Library.dll
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa.Library/obj/Debug/net8.0/dpa.Library.pdb
+/Users/yichengxu/Documents/2024 Total/全栈技术开发/dpa/dpa.Library/obj/Debug/net8.0/ref/dpa.Library.dll
